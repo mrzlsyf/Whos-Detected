@@ -38,11 +38,14 @@ This system employs **deep learning techniques** for face detection and classifi
 ---
 
 ## 🛠 Technologies & Libraries
-
 🔹 **Python** 🐍
+
 🔹 **OpenCV** 👀  
+
 🔹 **TensorFlow/Keras** 💡  
+
 🔹 **NumPy** 💪  
+
 🔹 **Matplotlib** 🌈
 
 ---
